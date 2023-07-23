@@ -29,11 +29,11 @@ Complete data can be seen [here](./dataset/data_final.csv)
 In the process of creating a support vector machine model, I didn't use a library because the data has less complex values, so I decided to make manual svm calculations. The principle used is as shown in the following figure:<br>
 <div style="display: flex;">
     <div style="flex: 50%; padding: 5px;">
-        <img src="Images/support vector machine.png" alt="svm concept" style="width: 40%;">
+        <img src="Images/support vector machine.png" alt="svm concept" style="width: 50%;">
     </div>
     <div style="flex: 50%; padding: 5px;">
-        <img src="Images/rumus-1.png" alt="formula-1" style="width: 40%;">
-        <img src="Images/rumus-2.png" alt="formula-2" style="width: 40%;">
+        <img src="Images/rumus-1.png" alt="formula-1" style="width: 25%;">
+        <img src="Images/rumus-2.png" alt="formula-2" style="width: 25%;">
     </div>
 </div>
 
