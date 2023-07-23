@@ -36,6 +36,11 @@ In the process of creating a support vector machine model, I didn't use a librar
       <td><img src="Images/rumus-2.png" alt="formula-1" style="width: 60%;"></td
   </tr>
 </table>
+
+the picture on the left is a concept from svm which looks for a hyperplane (delimiter line) to separate the 2 types of categories, in this project the categories to be separated are whether they pass or not.
+in the picture on the right above illustrates the condition if the value is greater than 1 then there is a formula for changing the weight and bias, and vice versa. The point that can be taken from this svm calculation is to find the best weight and bias values based on the data.
+
+The process of implementing a support vector machine using Python can be seen [here](./svm.py)
 ## Simple Multi Attribute Rating Technique
 
 
