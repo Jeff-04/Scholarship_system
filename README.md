@@ -64,4 +64,10 @@ cout = criterion value of the i-th alternative<br><br>
 2. Ranking
 The results of utility calculations will be added up for each row to produce a new column. The column is ranked in ascending order.
 
+# Technology and Programming Language
+
+- Programming Language: Python
+- Database: SQLite3
+- Frontend: Streamlit
+
 Live Demo : https://scholarship-system.streamlit.app/
