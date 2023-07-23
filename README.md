@@ -49,6 +49,20 @@ The data used in this smart has the same columns as in svm, the difference is th
 1. Kartu Indonesia Pintar (KIP): 40%
 2. Penghasilan Orang Tua: 10%
 3. Status Orang Tua Siswa: 30%
-4. Data Kemiskinan Dinas Sosial: 20%
+4. Data Kemiskinan Dinas Sosial: 20%<br><br>
 
-Live Demo : https://jeff-04-seminar-tematik-beasiswa-main-hno1py.streamlit.app/
+The process of calculating the smart method has several stages, namely:
+1. Determine the utility value
+The formula used to find utility values is as follows:
+<img src="Images/rumus_benefit.jpg" alt="utility" style="width: 50%;">
+
+Information:
+uj(ai) = utility criterion-j, alternative -i
+cmax = maximum criterion value
+cmin = minimum criterion value
+cout = criterion value of the i-th alternative
+
+3. Ranking
+The results of utility calculations will be added up for each row to produce a new column. The column is ranked in ascending order.
+
+Live Demo : https://scholarship-system.streamlit.app/
