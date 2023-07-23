@@ -56,13 +56,13 @@ The process of calculating the smart method has several stages, namely:
 The formula used to find utility values is as follows:
 <img src="Images/rumus_benefit.jpg" alt="utility" style="width: 50%;">
 
-Information:
-uj(ai) = utility criterion-j, alternative -i
-cmax = maximum criterion value
-cmin = minimum criterion value
-cout = criterion value of the i-th alternative
+Information:<br>
+uj(ai) = utility criterion-j, alternative -i<br>
+cmax = maximum criterion value<br>
+cmin = minimum criterion value<br>
+cout = criterion value of the i-th alternative<br><br>
 
-3. Ranking
+2. Ranking
 The results of utility calculations will be added up for each row to produce a new column. The column is ranked in ascending order.
 
 Live Demo : https://scholarship-system.streamlit.app/
