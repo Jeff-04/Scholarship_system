@@ -43,5 +43,7 @@ in the picture on the right above illustrates the condition if the value is grea
 The process of implementing a support vector machine using Python can be seen [here](./svm.py)
 ## Simple Multi Attribute Rating Technique
 <img src="Images/smart.jpg" alt="SMART" style="width: 75%;">
+Simple Multi Attribute Rating Technique (SMART) is a method multi-criteria decision making developed by Edward in 1997. This multi-criteria decision-making technique is based on the theory that each alternative consists of a number of criteria that have values and each criteria have weights that describe how important they are compared with other criteria.
+
 
 Live Demo : https://jeff-04-seminar-tematik-beasiswa-main-hno1py.streamlit.app/
