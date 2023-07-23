@@ -1,9 +1,3 @@
-# Technology and Programming Language
-
-- Programming Language: Python
-- Database: SQLite3
-- Frontend: Streamlit
-
 # Scholarship Selection System using SVM & SMART
 this project is a system that was built to overcome the tendency of errors in awarding scholarships, there are lots of cases related to this problem such as:
 1. https://voicesikka.com/2022/07/17/beasiswa-salah-sasaran-area-rugi-rp-280-juta-jaksa-harus-periksa-kabag-kesra/
@@ -69,5 +63,11 @@ cout = criterion value of the i-th alternative<br><br>
 
 2. Ranking
 The results of utility calculations will be added up for each row to produce a new column. The column is ranked in ascending order.
+
+
+# Technology and Programming Language
+- Programming Language: Python
+- Database: SQLite3
+- Frontend: Streamlit
 
 Live Demo : https://scholarship-system.streamlit.app/
