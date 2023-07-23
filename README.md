@@ -26,7 +26,7 @@ The data used in the support vector machine is of type text data which has 4 col
 Complete data can be seen [here](./dataset/data_final.csv)
 
 In the process of creating a support vector machine model, I didn't use a library because the data has less complex values, so I decided to make manual svm calculations. The principle used is as shown in the following figure:
-![SVM](./Images/svm.jpg)
+<img src="Images/svm.jpg" alt="SVM" style="width: 50%;">
 
 ## Simple Multi Attribute Rating Technique
 
