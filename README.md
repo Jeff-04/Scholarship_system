@@ -1,6 +1,6 @@
 # List of contents
 - [Title and Description](#Scholarship-Selection-System-using-SVM-&-SMART)
-- [Alghoritm](#Algorithm)
+- [Algorithm](#Algorithm)
    - [Support Vector Machine](#Support-Vector-Machine)
    - [Simple Multi Attribute Rating Technique](#Simple-Multi-Attribute-Rating-Technique)
 - [Technology and Programming Language](#Technology-and-Programming-Language)
