@@ -1,8 +1,8 @@
 # List of contents
 - [Title and Description](#Scholarship-Selection-System-using-SVM-&-SMART)
 - [Alphorythm](#Algorithm)
-   - [Support Vector Machine](##Support-Vector-Machine)
-   - [Simple Multi Attribute Rating Technique](##Simple-Multi-Attribute-Rating-Technique)
+   - [Support Vector Machine](#Support-Vector-Machine)
+   - [Simple Multi Attribute Rating Technique](#Simple-Multi-Attribute-Rating-Technique)
 - [Technology and Programming Language](#Technology-and-Programming-Language)
 - [How to Run the Program](#How-to-Run-the-Program)
 - [Live Demo](#Live-Demo)
