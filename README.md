@@ -45,5 +45,10 @@ The process of implementing a support vector machine using Python can be seen [h
 <img src="Images/smart.jpg" alt="SMART" style="width: 75%;">
 Simple Multi Attribute Rating Technique (SMART) is a method multi-criteria decision making developed by Edward in 1997. This multi-criteria decision-making technique is based on the theory that each alternative consists of a number of criteria that have values and each criterion has a weight that describes how important it is compared to other criteria
 
+The data used in this smart has the same columns as in svm, the difference is that in this smart each column has its own weight value. This weight will be calculated by the smart model. The following are the weights for each dataset column:
+1. Kartu Indonesia Pintar (KIP): 40%
+2. Penghasilan Orang Tua: 10%
+3. Status Orang Tua Siswa: 30%
+4. Data Kemiskinan Dinas Sosial: 20%
 
 Live Demo : https://jeff-04-seminar-tematik-beasiswa-main-hno1py.streamlit.app/
