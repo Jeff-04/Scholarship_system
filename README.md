@@ -42,6 +42,6 @@ in the picture on the right above illustrates the condition if the value is grea
 
 The process of implementing a support vector machine using Python can be seen [here](./svm.py)
 ## Simple Multi Attribute Rating Technique
-
+<img src="Images/smart.jpg" alt="SMART" style="width: 75%;">
 
 Live Demo : https://jeff-04-seminar-tematik-beasiswa-main-hno1py.streamlit.app/
