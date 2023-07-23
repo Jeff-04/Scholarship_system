@@ -1,3 +1,11 @@
+# Daftar Isi
+- [Bagian Pertama](#bagian-pertama)
+  - [Sub Bagian 1](#sub-bagian-1)
+  - [Sub Bagian 2](#sub-bagian-2)
+- [Bagian Kedua](#bagian-kedua)
+  - [Sub Bagian 3](#sub-bagian-3)
+
+
 # Scholarship Selection System using SVM & SMART
 this project is a system that was built to overcome the tendency of errors in awarding scholarships, there are lots of cases related to this problem such as:
 1. https://voicesikka.com/2022/07/17/beasiswa-salah-sasaran-area-rugi-rp-280-juta-jaksa-harus-periksa-kabag-kesra/
@@ -70,11 +78,12 @@ The results of utility calculations will be added up for each row to produce a n
 - Database: SQLite3
 - Frontend: Streamlit
 
-## How to Run the Program
-1. The first step.
-2. Second step.
-3. Third step.
+# How to Run the Program
+1. install library (pip install -r requirements.txt).
+2. Create a database (python database.py).
+3. run the program (streamlit run Main.py)/
 
-Make sure you have Python 3.7+ and MySQL installed before running this program.
+Make sure you have Python 3.7+ installed before running this program.
 
+# Live Demo
 Live Demo : https://scholarship-system.streamlit.app/
