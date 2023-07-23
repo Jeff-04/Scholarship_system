@@ -83,7 +83,7 @@ The results of utility calculations will be added up for each row to produce a n
 # How-to-Run-the-Program
 1. install library (pip install -r requirements.txt).
 2. Create a database (python database.py).
-3. run the program (streamlit run Main.py)/
+3. run the program (streamlit run Main.py).
 
 Make sure you have Python 3.7+ installed before running this program.
 
