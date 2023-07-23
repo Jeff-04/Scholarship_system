@@ -28,16 +28,18 @@ Complete data can be seen [here](./dataset/data_final.csv)
 
 In the process of creating a support vector machine model, I didn't use a library because the data has less complex values, so I decided to make manual svm calculations. The principle used is as shown in the following figure:<br>
 <html>
-<style>
-   #page {
-      border-collapse: collapse;
-   }
-
-   #page td {
-      padding: 0; 
-      margin: 0;
-   }
-</style>
+<head>
+   <style>
+      #page {
+         border-collapse: collapse;
+      }
+   
+      #page td {
+         padding: 0; 
+         margin: 0;
+      }
+   </style>
+</head>
 <table id="page">
   <tr>
       <td rowspan="2"><img src="Images/support vector machine.png" alt="svm concept" style="width: 100%;"></td>
