@@ -55,7 +55,6 @@ The process of calculating the smart method has several stages, namely:
 1. Determine the utility value
 The formula used to find utility values is as follows:
 <img src="Images/rumus_benefit.jpg" alt="utility" style="width: 50%;">
-
 Information:<br>
 uj(ai) = utility criterion-j, alternative -i<br>
 cmax = maximum criterion value<br>
