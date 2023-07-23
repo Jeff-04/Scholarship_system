@@ -70,4 +70,11 @@ The results of utility calculations will be added up for each row to produce a n
 - Database: SQLite3
 - Frontend: Streamlit
 
+## How to Run the Program
+1. The first step.
+2. Second step.
+3. Third step.
+
+Make sure you have Python 3.7+ and MySQL installed before running this program.
+
 Live Demo : https://scholarship-system.streamlit.app/
