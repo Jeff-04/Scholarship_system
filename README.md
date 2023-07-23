@@ -30,10 +30,9 @@ In the process of creating a support vector machine model, I didn't use a librar
 <table>
   <tr>
       <td rowspan="2"><img src="Images/support vector machine.png" alt="svm concept" style="width: 50%;"></td>
-      <td>Baris ke 1 - Kolom ke 2</td>
+      <td><img src="Images/rumus-1.png" alt="formula-1" style="width: 25%;"></td
   </tr>
   <tr>
-      <td><img src="Images/rumus-1.png" alt="formula-1" style="width: 25%;"></td
       <td><img src="Images/rumus-2.png" alt="formula-1" style="width: 25%;"></td
   </tr>
 </table>
